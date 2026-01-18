@@ -9,7 +9,7 @@ export function HeroSection() {
           <div className="space-y-8">
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-secondary rounded-full text-sm text-secondary-foreground">
               <span className="w-2 h-2 bg-primary rounded-full animate-pulse" />
-              Now piloting in Lagos State
+              Now piloting in Ilorin
             </div>
 
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground leading-tight text-balance">
